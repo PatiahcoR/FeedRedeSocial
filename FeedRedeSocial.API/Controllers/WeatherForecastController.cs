@@ -8,8 +8,10 @@ namespace FeedRedeSocial.API.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "teste"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "teste", "teste 2"
         };
+
+        //apenas um teste
 
         private readonly ILogger<WeatherForecastController> _logger;
 
