@@ -1,0 +1,6 @@
+@FeedRedeSocial.API_HostAddress = http://localhost:5276
+
+GET {{FeedRedeSocial.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
